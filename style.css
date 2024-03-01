@@ -1,0 +1,30 @@
+body{
+    color: black;
+    font-family: sans-serif;
+}
+
+
+nav{
+    display: flex;
+    text-decoration: none;
+    gap: 10px;
+}
+
+li{
+    list-style-type: none;
+    gap: 25px;
+}
+.container{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
